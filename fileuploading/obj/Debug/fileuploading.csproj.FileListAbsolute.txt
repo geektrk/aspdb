@@ -1,0 +1,10 @@
+E:\noveltypractice\fileuploading\fileuploading\bin\fileuploading.dll
+E:\noveltypractice\fileuploading\fileuploading\bin\fileuploading.pdb
+E:\noveltypractice\fileuploading\fileuploading\obj\Debug\ResolveAssemblyReference.cache
+E:\noveltypractice\fileuploading\fileuploading\obj\Debug\fileuploading.dll
+E:\noveltypractice\fileuploading\fileuploading\obj\Debug\fileuploading.pdb
+C:\00.Sathesh\visual studio project\noveltypractice\fileuploading\fileuploading\bin\fileuploading.dll
+C:\00.Sathesh\visual studio project\noveltypractice\fileuploading\fileuploading\bin\fileuploading.pdb
+C:\00.Sathesh\visual studio project\noveltypractice\fileuploading\fileuploading\obj\Debug\fileuploading.csprojResolveAssemblyReference.cache
+C:\00.Sathesh\visual studio project\noveltypractice\fileuploading\fileuploading\obj\Debug\fileuploading.dll
+C:\00.Sathesh\visual studio project\noveltypractice\fileuploading\fileuploading\obj\Debug\fileuploading.pdb
